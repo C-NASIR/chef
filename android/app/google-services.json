@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "586558708879",
+    "firebase_url": "https://recipemaker-fffd3-default-rtdb.firebaseio.com",
+    "project_id": "recipemaker-fffd3",
+    "storage_bucket": "recipemaker-fffd3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586558708879:android:e8dd6fd45eadc6997e24fa",
+        "android_client_info": {
+          "package_name": "com.group6.recipemaker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586558708879-b0h27rc3slfhluh4kac7go0mfsa0b0d2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQQhZuayiZqJ5roa3n4-ZnJZGfQZnX5LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586558708879-b0h27rc3slfhluh4kac7go0mfsa0b0d2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
